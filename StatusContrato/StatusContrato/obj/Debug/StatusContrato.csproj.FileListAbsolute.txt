@@ -1,0 +1,9 @@
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\bin\Debug\StatusContrato.exe.config
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\bin\Debug\StatusContrato.exe
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\bin\Debug\StatusContrato.pdb
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\obj\Debug\StatusContrato.csprojResolveAssemblyReference.cache
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\obj\Debug\StatusContrato.csproj.CoreCompileInputs.cache
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\obj\Debug\StatusContrato.exe
+C:\Users\vivianem\Desktop\cSharp\StatusContrato\StatusContrato\obj\Debug\StatusContrato.pdb
